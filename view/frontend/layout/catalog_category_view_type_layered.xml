@@ -3,7 +3,7 @@
 	<body>
 		<referenceBlock name="catalog.navigation.renderer">
 			<action method="setTemplate">
-				<argument name="template" xsi:type="string">Emizentech_Priceslider::filter.phtml</argument>
+				<argument name="template" xsi:type="string">Eadesigndev_Priceslider::filter.phtml</argument>
 			</action>
 		</referenceBlock>
 	</body>
