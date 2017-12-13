@@ -10,12 +10,12 @@
         "OSL-3.0",
         "AFL-3.0"
     ],
-    "extra": {
-        "map": [
-            [
-                "*",
-                "Eadesigndev/Priceslider"
-            ]
-        ]
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Eadesigndev\\Priceslider\\": ""
+        }
     }
 }
